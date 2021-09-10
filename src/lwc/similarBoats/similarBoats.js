@@ -1,5 +1,4 @@
 import { LightningElement, api, wire, track } from 'lwc';
- 
 // imports
 // import getSimilarBoats
 import { NavigationMixin } from 'lightning/navigation';
